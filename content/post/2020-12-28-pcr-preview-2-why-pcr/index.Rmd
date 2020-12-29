@@ -13,15 +13,15 @@ bibliography: references.bib
 
 당신은 살면서 이런 이미지들을 본 적 있는가?
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHv-5g-Ci_KWCvISRzLsqi8zuBtD1z_hSAMg&usqp=CAU)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHv-5g-Ci_KWCvISRzLsqi8zuBtD1z_hSAMg&usqp=CAU){width="400"}
 
-![](https://i.pinimg.com/originals/f2/74/83/f2748366cad73cac736057e7acee26c8.jpg){width="326"}
+![](https://i.pinimg.com/originals/f2/74/83/f2748366cad73cac736057e7acee26c8.jpg){width="400"}
 
-![](https://i.pinimg.com/originals/d0/5f/31/d05f3148bcdc3034909d5f179c48e6f6.jpg){width="349"}
+![](https://i.pinimg.com/originals/d0/5f/31/d05f3148bcdc3034909d5f179c48e6f6.jpg){width="400"}
 
 위의 사진을 본적 있다면, 다음 논문의 Figure가 무슨 말을 하고싶은지 아는가?
 
-![](images/PCR_example.png){width="590"}
+![](images/PCR_example.png){width="400"}
 
 [@wang2014]
 
