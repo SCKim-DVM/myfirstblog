@@ -18,9 +18,9 @@ tags: []
 
 ### DNA & RNA
 
-![](https://ib.bioninja.com.au/_Media/dna-vs-rna_med.jpeg "Table")
+![](https://ib.bioninja.com.au/_Media/dna-vs-rna_med.jpeg "Table"){width="400"}
 
-![](https://ib.bioninja.com.au/_Media/nucleotide-rna-vs-dna_med.jpeg "Figure")
+![](https://ib.bioninja.com.au/_Media/nucleotide-rna-vs-dna_med.jpeg "Figure"){width="400"}
 
 기본적으로 RNA와 DNA는 모두 **인 (Phosphate) - 당 (Sugar) - 염기 (Base)** 로 이루어진 Nucleotide로 이루어져 있다. Nucleotide는 핵산을 구성하는 단위체인 분자로, RNA와 DNA에서 약간의 차이가 있다는 것을 확인하자.
 
@@ -32,13 +32,13 @@ tags: []
 
     -   Deoxyribose vs Ribose
 
-![](https://ib.bioninja.com.au/_Media/dna-vs-rna-structure_med.jpeg)
+![](https://ib.bioninja.com.au/_Media/dna-vs-rna-structure_med.jpeg){width="400"}
 
 DNA는 2가닥의 strand (Double-stranded), RNA는 1가닥의 strand (Single-stranded)로 이루어져 있다.
 
-![](https://ib.bioninja.com.au/_Media/nitrogenous-bases_med.jpeg)
+![](https://ib.bioninja.com.au/_Media/nitrogenous-bases_med.jpeg){width="400"}
 
-![](https://ib.bioninja.com.au/_Media/base-pairs_med.jpeg)
+![](https://ib.bioninja.com.au/_Media/base-pairs_med.jpeg){width="400"}
 
 이것은 짚고 넘어가자
 
