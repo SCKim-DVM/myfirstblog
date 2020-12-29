@@ -1,0 +1,26 @@
+---
+title: Testing
+author: 김승채
+date: '2020-12-29'
+slug: testing
+categories:
+  - Cloning
+tags:
+  - R Markdown
+---
+
+Rblogdown을 이용한 블로그만들기 테스트 페이지
+
+I.  자 이제
+
+II. 어떤식으로 구성을 할 것인가
+
+III. 생각을 해보자
+
+> 왜 이것은 이렇게 만들어 졌을까
+>
+> 그게 문제로다
+
+`# This is the test code`
+
+![](images/microreact.emf)
