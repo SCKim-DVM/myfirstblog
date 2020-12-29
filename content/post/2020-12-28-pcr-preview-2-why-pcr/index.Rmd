@@ -1,0 +1,11 @@
+---
+title: PCR preview 0 ; Why PCR ?
+author: SC Kim
+date: '2020-12-28'
+slug: pcr-preview-0-why-pcr
+categories:
+  - PCR
+tags: []
+---
+
+# PCR ?
